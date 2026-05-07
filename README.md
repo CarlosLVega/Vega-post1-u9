@@ -78,6 +78,8 @@ JaCoCo valida por build que la capa `com.universidad.productosservice.service` t
 
 ![Resultado de mvn test](productos-service/docs/mvn-test-build-success.png)
 
+![Pruebas en verde en Test Runner for Java](productos-service/docs/test-runner-java.png)
+
 Resumen de la ultima ejecucion:
 
 ```text
